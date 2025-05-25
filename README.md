@@ -1,1 +1,2 @@
 # LoanPrediction
+This project is a machine learning-based web application that predicts loan approval status based on key applicant features such as credit history, marital status, and co-applicant income. The model was trained using a cleaned and preprocessed dataset and deployed with a simple Flask interface. Users can input their information and receive instant feedback on whether their loan is likely to be approved or rejected.
